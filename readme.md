@@ -4,4 +4,4 @@ Repositori ini berisi fail-fail kode yang digunakan selama praktikum Algoritma d
 
 # Cara Mengakses Kode
 
-Kode dapat diakses dengan membuka folder `src`, kemudian membuka folder `praktikum` sesuai dengan pertemuan yang kodenya ingin diakses.
+Kode dapat diakses dengan membuka folder `src`, kemudian membuka folder `pertemuan` sesuai dengan pertemuan praktikum yang kodenya ingin diakses.
