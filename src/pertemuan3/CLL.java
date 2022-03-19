@@ -63,10 +63,10 @@ public class CLL {
 
     public void print() {
         NodeCLL pointer = head;
-        while (pointer != null) {
+        do {
             System.out.print(pointer.data + " ");
             pointer = pointer.next;
-        }
+        } while (pointer != head);
         System.out.println();
     }
 }
