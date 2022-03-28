@@ -19,5 +19,10 @@ public class Main {
         pq.print();
         pq.add(new NodePQ(7, 1));
         pq.print();
+        pq.add(new NodePQ(83418, 3));
+        pq.print();
+        pq.add(new NodePQ(1111, 2));
+        pq.print();
+
     }
 }
